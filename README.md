@@ -1,5 +1,5 @@
 # ÁNGEL MARTÍNEZ GONZÁLEZ
-Data Scientist Sr. | Big Data Engineer Sr. | Reverse Engineer Sr.
+**Data Scientist Sr. | Big Data Engineer Sr. | Reverse Engineer Sr.**
 
 📧 contacto@angelmartinezgonzalez.com.mx | 📱   
 🌐 angelmartinezgonzalez.com.mx | GitHub: github.com/angelmartinezgonzalez | LinkedIn: linkedin.com/in/angelmartinezgonzalez  
