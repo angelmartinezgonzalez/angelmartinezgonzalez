@@ -1,4 +1,5 @@
 # ÁNGEL MARTÍNEZ GONZÁLEZ
+**Consultor Senior en Ciencia de datos, Big Data, Sistemas**
 **Data Scientist Sr. | Big Data Engineer Sr. | Reverse Engineer Sr.**
 
 📧 contacto@angelmartinezgonzalez.com.mx | 📱   
@@ -10,6 +11,12 @@
 Científico de Datos Senior con más de 10+ años de experiencia en **Big Data** y 8+ en **Ciencia de Datos**, liderando proyectos de **Machine Learning, IA Generativa, Analítica Avanzada y Computer Vision**.  
 Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, fast food, comercio electrónico y marketing**, integrando soluciones de IA en producción y gestionando equipos de hasta 20 especialistas.  
 
+---
+**Discutimos tus desafíos específicos y te presento un plan de acción concreto.**
+
+https://img.shields.io/badge/%F0%9F%93%A7-Agendar_Consulta-D14836?style=for-the-badge&logo=gmail
+https://img.shields.io/badge/%F0%9F%8C%90-Visita_Mi_Sitio-4285F4?style=for-the-badge&logo=googlechrome
+https://img.shields.io/badge/%F0%9F%92%BC-Conectemos-0A66C2?style=for-the-badge&logo=linkedin
 ---
 
 ## Experiencia por Sectores
