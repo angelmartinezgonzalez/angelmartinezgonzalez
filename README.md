@@ -16,7 +16,7 @@
 
 ## Perfil Profesional
 Científico de Datos Senior con más de 10+ años de experiencia en **Big Data** y 8+ en **Ciencia de Datos**, liderando proyectos de **Machine Learning, IA Generativa, Analítica Avanzada y Computer Vision**.  
-Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, fast food, comercio electrónico y marketing**, integrando soluciones de IA en producción y gestionando equipos de hasta 20 especialistas.  
+Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, fast food, comercio electrónico, contabilidad, facturacion electronica CFDI y marketing**, integrando soluciones de IA en producción y gestionando equipos de hasta 20 especialistas.  
 
 ---
 
