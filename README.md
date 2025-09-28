@@ -14,9 +14,9 @@ Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, f
 ---
 **Discutimos tus desafíos específicos y te presento un plan de acción concreto.**
 
-https://img.shields.io/badge/%F0%9F%93%A7-Agendar_Consulta-D14836?style=for-the-badge&logo=gmail
-https://img.shields.io/badge/%F0%9F%8C%90-Visita_Mi_Sitio-4285F4?style=for-the-badge&logo=googlechrome
-https://img.shields.io/badge/%F0%9F%92%BC-Conectemos-0A66C2?style=for-the-badge&logo=linkedin
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7-Agendar_Consulta-D14836?style=for-the-badge&logo=gmail)](mailto:contacto@angelmartinezgonzalez.com.mx?subject=Consulta%20Data%20Science&body=Hola%20Ángel,%20me%20interesa%20tu%20consultoría...)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90-Visita_Mi_Sitio-4285F4?style=for-the-badge&logo=googlechrome)](https://angelmartinezgonzalez.com.mx)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC-Conectemos-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/angelmartinezgonzalez)
 ---
 
 ## Experiencia por Sectores
