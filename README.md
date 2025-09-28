@@ -76,7 +76,7 @@ Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, f
 ## Habilidades Técnicas
 
 **Lenguajes de Programación:**  
-Python, Scala, Java, SQL, C++, Delphi  
+Python, Scala, Java, SQL, C++, Delphi, Php  
 
 **Data Science & ML:**  
 Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow, OpenCV  
@@ -105,6 +105,7 @@ Docker, Git, Power BI, Databricks, Composer, DAGS
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&logoColor=white)
+![Php](https://img.shields.io/badge/Php-EE1F35?logo=php&logoColor=white)
 
 ### **IDEs y Editores:**
 ![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?logo=visualstudio&logoColor=white)
