@@ -23,18 +23,22 @@ Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, f
 ## Experiencia por Sectores
 
 **Finanzas y Banca**  
-- Modelos predictivos para **detección de fraude financiero** y reducción de falsos positivos en apertura de cuentas.  
+- Modelos predictivos para **detección de fraude financiero** y reducción de falsos positivos en apertura de cuentas.
+- Desarrollo de ETLs en **Scala, Python y Spark** para transformacion de datos de origen y puesta en sistemas del usuario.    
 - Creación de pipelines de ML con **Scala, Python, PySpark en Azure Databricks** y despliegue en GCP/AWS.  
 - Dashboards en **Power BI** para monitoreo de KPIs financieros.
 - **Pandas y Numpy** en proyectos
 - Liderazgo de equipos técnicos de hasta **20 personas**.  
 
 **Seguros**  
+- Modelos predictivos para **detección de necesidades financieras**
 - Desarrollo de ETLs en **Scala, Python y Spark** para análisis de pólizas de Vida, Autos y Gastos Médicos.  
 - Integración de procesos de negocio en **Google Cloud (Composer, Airflow, BigQuery)**.
 - **Pandas y Numpy** en proyectos
 - Mejora de modelos de predicción para riesgos y marketing de productos.  
-- Gestión de equipos multidisciplinarios y capacitación de analistas.  
+- Gestión de equipos multidisciplinarios y capacitación de analistas.
+- Facturacion electronica CFDI
+- Contabilidad electronica 
 
 **Telecomunicaciones**  
 - Migración de entornos Big Data (Cloudera, Hadoop, Hive) hacia **Google Cloud Platform**.  
@@ -44,28 +48,37 @@ Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, f
 - Arquitectura y optimización de pipelines de datos para clientes de alto consumo.  
 
 **Marketing y Medios Digitales**  
-- Desarrollo de **recomendadores de contenido** para plataformas de streaming (ClaroVideo, ClaroMúsica).  
+- Desarrollo de **recomendadores de contenido**.
+- Modelos predictivos para **detección de preferencias de consumo de los usuarios**
 - Implementación de modelos de analítica avanzada para personalización de experiencia de usuario.
-- Uso de **Scikit-learn, Pandas y Numpy** en proyectos de segmentación y targeting.  
+- Uso de **Scikit-learn, Pandas y Numpy** en proyectos de segmentación y targeting.
+- Facturacion electronica CFDI
+- Contabilidad electronica 
 
 **Fast Food**  
 - Implementación de modelos de **forecasting de demanda** para optimizar inventarios y tiempos de entrega.  
 - Integración de **dashboards operativos en tiempo real** para control de ventas y rotación de productos.
 - **Pandas y Numpy** en proyectos
-- Análisis de patrones de consumo y fidelización de clientes con técnicas de **machine learning y clustering**.  
+- Análisis de patrones de consumo y fidelización de clientes con técnicas de **machine learning y clustering**.
+- Desarrollo de ETLs en **Scala, Python y Spark**
+- Facturacion electronica CFDI
+- Contabilidad electronica 
 
 **Comercio Electrónico (E-Commerce)**  
 - Modelos de **predicción de compras recurrentes** y recomendación de productos.  
-- Optimización de estrategias de **pricing y promociones dinámicas** mediante analítica avanzada.  
+- Optimización de estrategias de **pricing y promociones dinámicas** mediante analítica avanzada.
+- Desarrollo de ETLs en **Scala, Python y Spark**
 - Diseño de pipelines para procesar datos de millones de transacciones en **entornos cloud (AWS/GCP)**.
 - **Pandas y Numpy** en proyectos
-- Implementación de soluciones de **detección de fraude en pagos online**.  
+- Implementación de soluciones de **detección de fraude en pagos online**.
+- Facturacion electronica CFDI
+- Contabilidad electronica 
 
 ---
 
 ## Educación
-- Ingeniería en Sistemas y Redes Computacionales – **UNITEC**  
-
+- Ingeniería en Sistemas
+  
 ---
 ## Idiomas
 - Mexicano – Nativo  
