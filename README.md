@@ -84,3 +84,72 @@ MySQL, PostgreSQL, Oracle, SQL Server, DB2, Firebird
 
 **Herramientas y DevOps:**  
 Docker, Git, Power BI, Databricks, Composer, DAGS  
+
+
+
+
+## 🛠️ Tech Stack
+
+### **Lenguajes de Programación:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&logoColor=white)
+
+### **IDEs y Editores:**
+![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?logo=visualstudio&logoColor=white)
+![Delphi 7-Athens](https://img.shields.io/badge/Delphi_7--Athens-EE1F35?logo=delphi&logoColor=white)
+![C++ Builder](https://img.shields.io/badge/C++_Builder-5C2D91?logo=embarcadero&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+### **Data Science & ML:**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+
+### **Big Data & ETL:**
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?logo=apachehive&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?logo=dataiku&logoColor=white)
+
+### **Cloud Platforms:**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+
+### **Bases de Datos:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-052FAD?logo=ibm&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-ED1C24?logo=firebird&logoColor=white)
+
+### **DevOps & Herramientas:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Apache Composer](https://img.shields.io/badge/Apache_Composer-430098?logo=apache&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=angelmartinezgonzalez&show_icons=true&theme=radical&hide_title=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmartinezgonzalez&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=angelmartinezgonzalez&theme=radical)
+
+---
