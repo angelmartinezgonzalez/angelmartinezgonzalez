@@ -3,10 +3,13 @@
 **Data Scientist Sr. | Big Data Engineer Sr. | Reverse Engineer Sr.**
 
 📧 contacto@angelmartinezgonzalez.com.mx | 📱   
-🌐 angelmartinezgonzalez.com.mx | GitHub: github.com/angelmartinezgonzalez | LinkedIn: linkedin.com/in/angelmartinezgonzalez  
+🌐 angelmartinezgonzalez.com.mx | GitHub: github.com/angelmartinezgonzalez | 
+LinkedIn: linkedin.com/in/angelmartinezgonzalez  
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tu_canal)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tu_pagina_o_perfil)
+
 ---
 **Discutimos tus desafíos específicos y te presento un plan de acción concreto.**
 
