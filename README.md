@@ -1,6 +1,5 @@
 # ÁNGEL MARTÍNEZ GONZÁLEZ
 **Consultor Senior en Ciencia de datos, Big Data, Sistemas**
----
 **Data Scientist Sr. | Big Data Engineer Sr. | Reverse Engineer Sr.**
 ---
 📧 contacto@angelmartinezgonzalez.com.mx | 📱   
