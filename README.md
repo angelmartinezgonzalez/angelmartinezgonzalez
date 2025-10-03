@@ -3,7 +3,7 @@
 
 **Data Scientist Sr. | Big Data Engineer Sr. | Reverse Engineer Sr.**
 ---
-📧 contacto@angelmartinezgonzalez.com.mx | 📱   
+📧 contacto@angelmartinezgonzalez.com.mx  | 📱   
 🌐 angelmartinezgonzalez.com.mx | 
 GitHub: github.com/angelmartinezgonzalez | 
 LinkedIn: linkedin.com/in/angelmartinezgonzalez  
