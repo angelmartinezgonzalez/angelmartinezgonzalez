@@ -89,23 +89,23 @@ Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, f
 
 ## Experiencia en Desarrollo de Software
 
-### CIENCIA DE DATOS
-- Desarrollo de modelos predictivos y descriptivos con Python (Scikit-learn, XGBoost, LightGBM, Statsmodels) aplicados a sectores de finanzas, seguros, telecomunicaciones, fast food y e-commerce.
-- Implementación de pipelines de Machine Learning end-to-end: ingesta, limpieza, feature engineering, entrenamiento, validación y despliegue en producción sobre AWS SageMaker, Azure ML y Vertex AI (GCP).
-- Análisis exploratorio de datos (EDA) y visualización avanzada con Pandas, NumPy, Matplotlib, Seaborn y Plotly para extracción de insights accionables.
-- Desarrollo de modelos de IA Generativa y NLP (LLMs, embeddings, RAG) utilizando frameworks como LangChain, OpenAI API, Azure OpenAI, Amazon Bedrock y Vertex AI Model Garden.
-- Creación de dashboards ejecutivos e interactivos en Power BI, Tableau y Looker conectados a bases de datos en cloud (BigQuery, Azure SQL, Redshift) para monitoreo de KPIs en tiempo real.
-- Aplicación de técnicas de Computer Vision con TensorFlow, PyTorch y OpenCV para clasificación de imágenes, detección de objetos y procesamiento de documentos con OCR.
-- Liderazgo técnico de equipos de hasta 20 especialistas en proyectos de ciencia de datos, coordinando desde la definición del problema de negocio hasta la entrega de soluciones en producción.
+### Ciencia de Datos
+- **Python (Scikit-learn, XGBoost, LightGBM, Statsmodels)**: Desarrollo de modelos predictivos y descriptivos aplicados a sectores de finanzas, seguros, telecomunicaciones, fast food y e-commerce.
+- **Python + AWS SageMaker / Azure ML / Vertex AI (GCP)**: Implementación de pipelines de Machine Learning end-to-end: ingesta, limpieza, feature engineering, entrenamiento, validación y despliegue en producción.
+- **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)**: Análisis exploratorio de datos (EDA) y visualización avanzada para extracción de insights accionables.
+- **Python (LangChain, OpenAI API, Azure OpenAI, Amazon Bedrock, Vertex AI)**: Desarrollo de modelos de IA Generativa y NLP — LLMs, embeddings y arquitecturas RAG.
+- **Power BI / Tableau / Looker**: Creación de dashboards ejecutivos e interactivos conectados a bases de datos en cloud (BigQuery, Azure SQL, Redshift) para monitoreo de KPIs en tiempo real.
+- **Python (TensorFlow, PyTorch, OpenCV)**: Aplicación de técnicas de Computer Vision para clasificación de imágenes, detección de objetos y procesamiento de documentos con OCR.
+- **Liderazgo técnico**: Gestión de equipos de hasta 20 especialistas, coordinando desde la definición del problema de negocio hasta la entrega de soluciones en producción.
 
-### BIG DATA
-- Diseño y desarrollo de pipelines ETL/ELT escalables en Python, Scala y PySpark sobre Apache Spark, procesando volúmenes de millones de registros diarios en entornos distribuidos (Hadoop, Hive, Cloudera).
-- Migración y modernización de arquitecturas Big Data on-premise (Cloudera/Hadoop) hacia plataformas cloud: Google Cloud Platform (BigQuery, Dataproc, Composer), AWS (EMR, Glue, S3) y Azure (Databricks, Synapse, Data Factory).
-- Orquestación de flujos de datos complejos mediante Apache Airflow (Cloud Composer, MWAA), con gestión de DAGs en Python para automatización de ingestas batch y procesamiento incremental.
-- Arquitectura y optimización de Data Lakes y Data Warehouses en BigQuery, Amazon Redshift, Azure Synapse y Databricks con Delta Lake, garantizando rendimiento, particionamiento y control de costos.
-- Procesamiento en tiempo real (streaming) con Apache Kafka, Cloud Pub/Sub, AWS Kinesis y Azure Stream Analytics para análisis de eventos y detección de anomalías en flujos de datos continuos.
-- Implementación de prácticas MLOps y DataOps con Docker, Kubernetes, MLflow, DVC y GitHub Actions para versionamiento de datos, modelos y automatización de CI/CD en pipelines de datos.
-- Optimización de queries SQL complejas en entornos distribuidos (BigQuery, Hive, Presto/Trino, Redshift) con técnicas de particionamiento, clustering y materialización de vistas para reducción de costos y tiempos de respuesta.
+### Big Data
+- **Python / Scala / PySpark + Apache Spark**: Diseño y desarrollo de pipelines ETL/ELT escalables procesando millones de registros diarios en entornos distribuidos (Hadoop, Hive, Cloudera).
+- **Python / Scala + GCP (BigQuery, Dataproc, Composer) / AWS (EMR, Glue, S3) / Azure (Databricks, Synapse, Data Factory)**: Migración y modernización de arquitecturas Big Data on-premise hacia plataformas cloud.
+- **Python (Apache Airflow / DAGs) + Cloud Composer / MWAA**: Orquestación de flujos de datos complejos con automatización de ingestas batch y procesamiento incremental.
+- **SQL + BigQuery / Amazon Redshift / Azure Synapse / Databricks (Delta Lake)**: Arquitectura y optimización de Data Lakes y Data Warehouses con particionamiento y control de costos.
+- **Python / Scala + Apache Kafka / Cloud Pub/Sub / AWS Kinesis / Azure Stream Analytics**: Procesamiento en tiempo real (streaming) para análisis de eventos y detección de anomalías en flujos de datos continuos.
+- **Python + Docker / Kubernetes / MLflow / DVC / GitHub Actions**: Implementación de prácticas MLOps y DataOps para versionamiento de datos, modelos y automatización de CI/CD.
+- **SQL (BigQuery, Hive, Presto/Trino, Redshift)**: Optimización de queries complejas en entornos distribuidos con técnicas de particionamiento, clustering y materialización de vistas.
 
 ### Desarrollo Web Full Stack
 
