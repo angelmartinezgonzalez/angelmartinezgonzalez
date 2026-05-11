@@ -4,11 +4,11 @@
 **Data Scientist Sr. | Big Data Engineer Sr. | Reverse Engineer Sr.**
 ---
 📧 contacto@angelmartinezgonzalez.com.mx  | 📱   
-🌐 angelmartinezgonzalez.com.mx | 
-GitHub: github.com/angelmartinezgonzalez | 
-LinkedIn: linkedin.com/in/angelmartinezgonzalez  
+🌐 www.angelmartinezgonzalez.com.mx | 
+GitHub: [https://github.com/angelmartinezgonzalez-mx-oficial ](https://github.com/angelmartinezgonzalez-mx-oficial)    | 
+LinkedIn: [linkedin.com/in/angelmartinezgonzalez-mx-oficial](https://www.linkedin.com/in/angelmartinezgonzalez-mx-oficial/)  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tu_canal)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@angelmartinezgonzalez-mx-ofc)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tu_usuario)
 [![TikTok](https://img.shields.io/badge/%F0%9F%8E%A7-TikTok-000000?style=for-the-badge&logo=tiktok)](https://tiktok.com/@tu_usuario)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tu_pagina_o_perfil)
@@ -18,8 +18,9 @@ LinkedIn: linkedin.com/in/angelmartinezgonzalez
 **Discutimos tus desafíos específicos y te presento un plan de acción concreto.**
 
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7-Agendar_Consulta-D14836?style=for-the-badge&logo=gmail)](mailto:contacto@angelmartinezgonzalez.com.mx?subject=Consulta%20Data%20Science&body=Hola%20Ángel,%20me%20interesa%20tu%20consultoría...)
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90-Visita_Mi_Sitio-4285F4?style=for-the-badge&logo=googlechrome)](https://angelmartinezgonzalez.com.mx)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC-Conectemos-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/angelmartinezgonzalez)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90-Visita_Mi_Sitio-4285F4?style=for-the-badge&logo=googlechrome)](https://www.angelmartinezgonzalez.com.mx)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC-Conectemos-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/angelmartinezgonzalez-mx-oficial/)
+
 ---
 
 
@@ -27,6 +28,7 @@ LinkedIn: linkedin.com/in/angelmartinezgonzalez
 Científico de Datos Senior con más de 10+ años de experiencia en **Ciencia de Datos** y 8+ en **Big Data** , he liderado proyectos de **Machine Learning, IA Generativa, Analítica Avanzada y Computer Vision**.  
 Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, fast food, comercio electrónico, contabilidad, facturacion electronica CFDI y marketing**, integrando soluciones de IA en producción y gestionando equipos de hasta 20 especialistas.  
 
+ 
 ---
 
 ## Experiencia por Sectores
@@ -85,20 +87,143 @@ Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, f
 
 ---
 
+## Experiencia en Desarrollo de Software
+
+### CIENCIA DE DATOS
+- Desarrollo de modelos predictivos y descriptivos con Python (Scikit-learn, XGBoost, LightGBM, Statsmodels) aplicados a sectores de finanzas, seguros, telecomunicaciones, fast food y e-commerce.
+- Implementación de pipelines de Machine Learning end-to-end: ingesta, limpieza, feature engineering, entrenamiento, validación y despliegue en producción sobre AWS SageMaker, Azure ML y Vertex AI (GCP).
+- Análisis exploratorio de datos (EDA) y visualización avanzada con Pandas, NumPy, Matplotlib, Seaborn y Plotly para extracción de insights accionables.
+- Desarrollo de modelos de IA Generativa y NLP (LLMs, embeddings, RAG) utilizando frameworks como LangChain, OpenAI API, Azure OpenAI, Amazon Bedrock y Vertex AI Model Garden.
+- Creación de dashboards ejecutivos e interactivos en Power BI, Tableau y Looker conectados a bases de datos en cloud (BigQuery, Azure SQL, Redshift) para monitoreo de KPIs en tiempo real.
+- Aplicación de técnicas de Computer Vision con TensorFlow, PyTorch y OpenCV para clasificación de imágenes, detección de objetos y procesamiento de documentos con OCR.
+- Liderazgo técnico de equipos de hasta 20 especialistas en proyectos de ciencia de datos, coordinando desde la definición del problema de negocio hasta la entrega de soluciones en producción.
+
+### BIG DATA
+- Diseño y desarrollo de pipelines ETL/ELT escalables en Python, Scala y PySpark sobre Apache Spark, procesando volúmenes de millones de registros diarios en entornos distribuidos (Hadoop, Hive, Cloudera).
+- Migración y modernización de arquitecturas Big Data on-premise (Cloudera/Hadoop) hacia plataformas cloud: Google Cloud Platform (BigQuery, Dataproc, Composer), AWS (EMR, Glue, S3) y Azure (Databricks, Synapse, Data Factory).
+- Orquestación de flujos de datos complejos mediante Apache Airflow (Cloud Composer, MWAA), con gestión de DAGs en Python para automatización de ingestas batch y procesamiento incremental.
+- Arquitectura y optimización de Data Lakes y Data Warehouses en BigQuery, Amazon Redshift, Azure Synapse y Databricks con Delta Lake, garantizando rendimiento, particionamiento y control de costos.
+- Procesamiento en tiempo real (streaming) con Apache Kafka, Cloud Pub/Sub, AWS Kinesis y Azure Stream Analytics para análisis de eventos y detección de anomalías en flujos de datos continuos.
+- Implementación de prácticas MLOps y DataOps con Docker, Kubernetes, MLflow, DVC y GitHub Actions para versionamiento de datos, modelos y automatización de CI/CD en pipelines de datos.
+- Optimización de queries SQL complejas en entornos distribuidos (BigQuery, Hive, Presto/Trino, Redshift) con técnicas de particionamiento, clustering y materialización de vistas para reducción de costos y tiempos de respuesta.
+
+### Desarrollo Web Full Stack
+
+- **Python Django**: Sistemas de gestión empresarial, portales de autogestión, plataformas e-commerce, APIs REST, sistemas administrativos y de facturación.
+- **.NET ASP (C# y C)**: Aplicaciones web empresariales, sistemas administrativos, portales de facturación electrónica CFDI, servicios web SOAP/REST, dashboards corporativos.
+- **Java**: Aplicaciones Spring Boot, servicios REST/SOAP, sistemas de gestión empresarial, portales corporativos, microservicios.
+- **PHP**: Sitios web dinámicos, sistemas de gestión de contenido (CMS), plataformas administrativas, portales de comercio electrónico.
+- **Frontend moderno**: Integración con React, Vue.js y Angular para interfaces de usuario interactivas y responsivas.
+- **APIs y Servicios Web**: Diseño e implementación de APIs RESTful, servicios SOAP, microservicios y arquitecturas orientadas a servicios (SOA).
+
+### Desarrollo de Aplicaciones de Escritorio
+
+- **Delphi (versiones 7 hasta Athens)**:
+  - Sistemas administrativos completos (ERP)
+  - Facturación electrónica CFDI 4.0
+  - Contabilidad electrónica
+  - Punto de venta (POS)
+  - Control de inventarios
+  - Sistemas de nómina
+  - Aplicaciones cliente-servidor
+
+- **C++ Builder**:
+  - Aplicaciones de gestión empresarial
+  - Sistemas financieros y bancarios
+  - Herramientas de análisis de datos
+  - Aplicaciones de alto rendimiento
+  - Sistemas de comunicación
+
+- **Frameworks VCL y FireMonkey (FMX)**:
+  - Desarrollo multiplataforma (Windows, macOS, Linux, iOS, Android)
+  - Aplicaciones nativas con look & feel del sistema operativo
+  - Interfaces modernas y responsivas
+  - Aplicaciones móviles empresariales
+
+- **Visual Studio 2022 con .NET**:
+  - Windows Forms (aplicaciones de escritorio tradicionales)
+  - WPF (Windows Presentation Foundation) para interfaces modernas
+  - .NET MAUI para desarrollo multiplataforma
+  - Aplicaciones de escritorio con C# y C
+  - Integración con servicios cloud (Azure, AWS, GCP)
+  - Conexión a bases de datos SQL Server, MySQL, PostgreSQL
+
+---
+
+## Experiencia en Contabilidad y Sistemas Administrativos
+
+**Contabilidad y Facturación Electrónica (CFDI)**  
+- Implementación de **facturación electrónica CFDI 4.0** y conciliación fiscal automatizada.  
+- Extracción y análisis de información de facturas para **IVA, ISR y retenciones**.  
+- Desarrollo de scripts en **Python, SQL, Delphi y C++ Builder** para procesos contables y administrativos.  
+
+**Sistemas Administrativos y ERP**  
+- Diseño de módulos de **inventarios, compras y ventas**.  
+- Dashboards financieros y operativos en **Power BI**.  
+- Integración con **ERP y sistemas de gestión administrativa**.  
+- Optimización de **cierres contables y flujo de caja** mediante automatización de procesos.
+- Desarrollo de **reportes regulatorios** y análisis financiero.
+- Implementación de **workflows** de aprobación y control interno.
+
+---
+
+## Gestión de Bases de Datos
+
+### Bases de Datos Relacionales
+
+- **Microsoft SQL Server**:
+  - Diseño y arquitectura de bases de datos
+  - Stored procedures, triggers, funciones
+  - Optimización de queries y análisis de rendimiento
+  - Índices, particionamiento y tuning
+  - SQL Server Integration Services (SSIS)
+  - Replicación y alta disponibilidad
+
+- **MySQL / MariaDB**:
+  - Administración y configuración
+  - Replicación master-slave
+  - Optimización de queries
+  - Diseño de esquemas normalizados
+  - Backup y recovery
+
+- **Oracle Database**:
+  - PL/SQL avanzado
+  - Optimización de rendimiento
+  - Administración de datos corporativos
+  - Data warehousing
+
+- **PostgreSQL**:
+  - Diseño de bases de datos complejas
+  - Funciones avanzadas y procedimientos
+  - Extensiones y JSON/NoSQL híbrido
+  - Optimización de queries
+
+- **Firebird**:
+  - Desarrollo con bases de datos embebidas
+  - Aplicaciones cliente-servidor
+  - Integración con Delphi y C++ Builder
+
+- **IBM DB2**:
+  - Administración en entornos empresariales
+  - Optimización de consultas
+  - Integración con aplicaciones legacy
+
+---
+
+
 ## Educación
-- Ingeniería en Sistemas
+- **Ingeniería en Sistemas**
   
 ---
 ## Idiomas
-- Mexicano – Nativo  
-- Inglés – C2 (Avanzado)  
-
+- **Español** – Nativo
+- **Inglés** – C2 (Avanzado)
 ---
 
 ## Habilidades Técnicas
 
 **Lenguajes de Programación:**  
-Python, Scala, Java, SQL, C++, Delphi, Php  
+Python, Scala, Java, SQL, C++, C#, Rust, Delphi, Php  
 
 **Data Science & ML:**  
 Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow, OpenCV  
